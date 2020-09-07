@@ -1,0 +1,20 @@
+{
+  "name": "code-deploy-git-hub-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js -a my_app",
+    "stop": "pkill -f my_app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilCat108/CodeDeployGitHubDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvilCat108/CodeDeployGitHubDemo/issues"
+  },
+  "homepage": "https://github.com/EvilCat108/CodeDeployGitHubDemo#readme"
+}
